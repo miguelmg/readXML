@@ -1,0 +1,8 @@
+<rss version="2.0">
+    <activitat>
+        <title>Prova</title>
+        <recursos>pelotas</recursos>
+        <cantidad>3</cantidad>
+        <objectiu>Mover</objectiu> 
+    </activitat>
+</rss>
