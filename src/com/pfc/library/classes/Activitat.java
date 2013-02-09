@@ -16,6 +16,7 @@ public class Activitat {
 		this.recursos = recursos;
 		this.cantidad = cantidad;
 		this.objectiu = objectiu;
+		//comentario de prueba para ver si se suben los cambios
 	}
 	
 }
